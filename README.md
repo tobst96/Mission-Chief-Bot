@@ -24,6 +24,7 @@ A Mission Chief bot written to automate the general despatching jobs of the bot.
 ## Accessing the bot 
 
 The bot is exclusively now being delivered via the [Mission Chief Bot Website](https://missionchiefbot.com/) any walkthroughs, guides etc will be there.
+The docs can also be found via the [Mission Chief Bot Docs](https://docs.missionchiefbot.com/) any walkthroughs, guides etc will be there.
 
 ## Supported Servers
 ![au](https://img.shields.io/badge/-AU-green)
